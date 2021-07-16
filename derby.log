@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jul 16 13:59:09 GMT+02:00 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017a-af2f-4522-000003255420 
+on database directory memory:C:\Users\Omer\Documents\Job interviews tests\Menora\Java-Interview\3f61586e-c37d-4a1e-a427-f5456ead78ff with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Omer/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Users\Omer\Documents\Job interviews tests\Menora\Java-Interview
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
